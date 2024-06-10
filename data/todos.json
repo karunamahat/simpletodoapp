@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": "3",
+      "text": "Buy book",
+      "completed": true
+    },
+    {
+      "id": "2545fe47-5fe5-483b-951b-fed03ddf70db",
+      "text": "Learn Korean"
+    }
+  ]
+}
