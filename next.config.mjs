@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  output: "export",
+  basePath: "/simpletodo",
+  images: {
+    unoptimized: true,
+  },
+};
 
 export default nextConfig;
+git;
